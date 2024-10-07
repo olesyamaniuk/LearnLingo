@@ -1,0 +1,20 @@
+.container {
+  padding: 20px;
+  color: #101828;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+}
+
+.link {
+  color: #9fbaae;
+  text-decoration: none;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 56px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
